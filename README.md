@@ -1,4 +1,4 @@
-# IT-Help-Desk-Ticketing-Sysyem
+# IT-Help-Desk-Ticketing-System
 
 ## Business Scenario
 
